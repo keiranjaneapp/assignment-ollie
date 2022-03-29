@@ -1,5 +1,7 @@
 # Jane Coding Exercise
 
+Hey there 👋 we're excited that you're considering joining our mission to help the helpers!
+
 The goal of this exercise is to evaluate your coding style, OO design skills, code efficiency, use of data structures, and functional completeness.
 
 We are looking for:
@@ -13,7 +15,7 @@ We are looking for:
   - Documentation / README.
   - Code changes in commits and commit messages.
 
-You may choose Ruby, Java, C#, Python, JavaScript or TypeScript to complete the solution.
+You may choose Ruby, Java, C# or Python to complete the solution.
 
 Your code should include a set of unit tests. You do not need to include a database, console application or GUI. The unit tests are all that is required.
 
